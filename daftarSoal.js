@@ -111,5 +111,9 @@ soalArray = [
 "The linear operator \\(A\\) on the vector space \\(V\\) is called an involution if \\(A^2 = E\\) where \\(E\\) is the identity operator on \\(V\\). Let \\( \\dim V = n < \\infty \\). Find the maximal number of distinct pairwise commuting involutions on \\(V\\).",
 "Let \\(a_1 = 1\\), \\( a_n = \\frac{1}{n} \\sum_{k=1}^{n-1} a_k a_{n-k} \\) for \\(n \\geq 2\\). Show that<br>\\( \\limsup_{n \\to \\infty} \\left| a_n \\right| ^{1/n} < 2^{-1/2} \\).",
 "Let \\(a_1 = 1\\), \\( a_n = \\frac{1}{n} \\sum_{k=1}^{n-1} a_k a_{n-k} \\) for \\(n \\geq 2\\). Show that<br>\\( \\limsup_{n \\to \\infty} \\left| a_n \\right| ^{1/n} \\geq 2/3 \\)",
-"Let \\(a\\), \\(b\\) be real numbers such that \\(b \\leq 0\\) and \\(1+ax+bx^2 \\geq 0\\) for every \\(x\\) in \\( \\left [ 0,1 \\right ] \\). Prove that<br>\\( \\lim_{n \\to +\\infty} n \\int_{0}^{1} \\left( 1+ax+bx^2 \\right)^n dx = \\left \\{ \\begin{matrix} -\\frac{1}{a} & \\text{if} & a < 0 \\\\ +\\infty & \\text{if} & a \\geq 0 \\end{matrix} \\right . \\)."
+"Let \\(a\\), \\(b\\) be real numbers such that \\(b \\leq 0\\) and \\(1+ax+bx^2 \\geq 0\\) for every \\(x\\) in \\( \\left [ 0,1 \\right ] \\). Prove that<br>\\( \\lim_{n \\to +\\infty} n \\int_{0}^{1} \\left( 1+ax+bx^2 \\right)^n dx = \\left \\{ \\begin{matrix} -\\frac{1}{a} & \\text{if} & a < 0 \\\\ +\\infty & \\text{if} & a \\geq 0 \\end{matrix} \\right . \\).",
+"Diberikan grup \\( \\mathbb{Z} _9 ^* = \\left \\{ 1,2,4,5,7,8 \\right \\} \\) terhadap operator kali kongruen modulo \\(9\\). Jelaskan mengapa grup ini siklik.",
+"Diberikan grup \\( \\mathbb{Z} _6 = \\left \\{ 0,1,2,3,4,5 \\right \\} \\) terhadap operator tambah kongruen modulo \\(6\\). Jelaskan mengapa grup ini siklik.",
+"Buktikan bahwa himpunan matriks tak singular berukuran \\( 2 \\times 2 \\) dengan operasi perkalian matriks biasa membentuk grup.",
+
 ];
