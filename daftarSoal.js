@@ -115,5 +115,6 @@ soalArray = [
 "Diberikan grup \\( \\mathbb{Z} _9 ^* = \\left \\{ 1,2,4,5,7,8 \\right \\} \\) terhadap operator kali kongruen modulo \\(9\\). Jelaskan mengapa grup ini siklik.",
 "Diberikan grup \\( \\mathbb{Z} _6 = \\left \\{ 0,1,2,3,4,5 \\right \\} \\) terhadap operator tambah kongruen modulo \\(6\\). Jelaskan mengapa grup ini siklik.",
 "Buktikan bahwa himpunan matriks tak singular berukuran \\( 2 \\times 2 \\) dengan operasi perkalian matriks biasa membentuk grup.",
+"Tunjukkan bahwa ada sebanyak tak hingga pasangan bilangan asli \\( \\left ( a,b \\right ) \\) dengan \\( \\text{FPB} \\left ( a,b \\right ) = 1 \\) dan \\( a + \\frac{1}{b} \\) merupakan kuadrat dari suatu bilangan rasional.",
 
 ];
