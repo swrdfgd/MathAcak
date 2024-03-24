@@ -129,5 +129,8 @@ soalArray = [
 "Hitunglah integral dari fungsi kompleks<br>\\int_{C}^{} \\frac{\\sin \\pi z^2 + \\cos \\pi z^2}{\\left( z-1 \\right) \\left( z-2 \\right)} dz<br>dengan \\(C\\) lingkaran berorientasi positif didefinisikan oleh \\(C:\\left| z-i \\right| = 3\\).",
 "Carilah nilai maksimum dari \\(\\left| z^2 + 3z -1 \\right| \\) dengan \\(z\\in\\mathbb{C} \\) di \\(\\left| z \\right|\\le 1\\).",
 "Jelaskan mengapa terhadap operasi tambah (aritmetika) biasa, \\(\\mathbb{Z} \\) adalah grup siklik dan mengapa bilangan positif terkecil \\(a\\) dari setiap subgrup \\(A \\le \\mathbb{Z} \\), merentang subgrup \\(A\\) (\\(A\\) adalah subgrup siklik).",
+"Buktikan bahwa terhadap operasi tambah (aritmetika) biasa,<br>\\(B=\\left\\{ 27x+45y \\; | \\; x,y \\in \\mathbb{Z} \\right\\} \\)<br>adalah grup siklik. Tentukan unsur yang merentang subgrup siklik \\(B\\) ini.",
+"Jika \\(\\rho _0 \\in S_6 \\) adalah permutasi identitas. Jelaskan mengapa terhapa operasi komposisi antara permutasi, himpunan permutasi \\(C = \\left\\{ \\rho _0, \\left( 3,4,5,6 \\right), \\left( 3,5 \\right) \\left( 4,6 \\right),\\left( 3,6,5,4 \\right),\\left( 3,4 \\right)\\left( 5,6 \\right),\\left( 3,6 \\right)\\left( 4,5 \\right),\\left( 3,5 \\right),\\left( 4,6 \\right) \\right\\} \\) adalah subgrup dari \\(S_6 \\) berdasarkan isomorfisma \\(C\\) dengan suatu grup yang lebih dikenal luas.",
+"Tentukan semua invers dari unsur-unsur subgrup \\(C = \\left\\{ \\rho _0, \\left( 3,4,5,6 \\right), \\left( 3,5 \\right) \\left( 4,6 \\right),\\left( 3,6,5,4 \\right),\\left( 3,4 \\right)\\left( 5,6 \\right),\\left( 3,6 \\right)\\left( 4,5 \\right),\\left( 3,5 \\right),\\left( 4,6 \\right) \\right\\} \\leq S_6\\).",
 
 ];
