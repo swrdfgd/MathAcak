@@ -171,5 +171,8 @@ soalArray = [
 "Jika suku barisan real \\(\\left\\{ a_n \\right\\}\\) adalah \\(a_1 > 0\\),<br>\\(a_2=\\frac{1}{2+a_1},\\cdots,a_{n+1}=\\frac{1}{2+a_n},\\cdots\\),<br>maka barisan \\(\\left\\{ a_n \\right\\}\\) konvergen ke ....",
 "\\(\\lim_{x \\to \\infty} \\left( 1+\\frac{1}{2x} \\right) ^x = ....\\)",
 "Diberikan \\(f,g:\\left[ a,b \\right]\\to \\mathbb{R}\\) kontinu di \\(\\left[ a,b \\right]\\) dan \\(g'\\) ada pada \\left[ a,b \\right] yang memenuhi<br>\\(\\left( f \\left( a \\right) - g'\\left( a \\right) \\right)\\left( g'\\left( b \\right) -f\\left( b \\right) \\right) >0\\). Tunjukkan bahwa terdapat \\(x_0 \\in \\left( a,b \\right)\\) sehingga \\(f\\left( x_0 \\right) = g'\\left( x_0 \\right)\\).",
+"Find the least positive integer \\(N\\) such that the set of \\(1000\\) consecutive integers beginning with \\(1000 \\cdots N\\) contains no square of an integer.",
+"Let \\(\\left( \\mathbb{Z}'_7, \\times _7\\right)\\) denote the multiplicative group of reduced residues modulo \\(7\\). Prove that \\(\\left( \\mathbb{Z}'_7, \\times _7\\right)\\) is cyclic.",
+"Buktikan atau berikan contoh penyanggah pernyataan<br>\\(\\left| x \\right| \\leq 2 \\Rightarrow  \\frac{1}{\\left| x+4 \\right|} \\leq \\frac{1}{2}\\).",
 
 ];
