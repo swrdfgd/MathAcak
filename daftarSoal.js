@@ -26,7 +26,7 @@ soalArray = [
 "Misalkan \\( R \\) merupakan ring. Jika \\( I_1 \\) dan \\( I_2 \\)  masing-masing merupakan ideal di \\( R \\), buktikan bahwa \\( I_1 + I_2 = \\left \\{ a+b | a \\in I_1 \\; \\textrm{dan} \\; b \\in I_2 \\right \\} \\) merupakan ideal di \\(R\\).",
 "Six points are in general position in space (no three in a line, no four in a plane). The fifteen line segments joining them in pairs are drawn, and then painted with some segments are red and the rest blue. Prove that some triangle has all its sides the same colour.",
 "Along the route of a bicycle race, 7 water stations are evenly spaced between the start and finish lines, as shown in the figure below. There are also 2 repair stations evenly spaced between the start and finish lines. The 3rd water station is located 2 miles after the 1st repair station. How long is the race in miles?<br><img src='gambar2.png'/>",
-"If \\(z\\) and \\(w\\) are complex number such that \\( \\left | z + w \\right | = \\left | z \\right | + \\left | w \\right | \\) and \\(w \\neq 0\\). \\( Im \\left ( \\frac{z}{w} \\right ) \\) = .... \\)",
+"If \\(z\\) and \\(w\\) are complex numbers such that \\( \\left | z + w \\right | = \\left | z \\right | + \\left | w \\right | \\) and \\(w \\neq 0\\). \\( Im \\left ( \\frac{z}{w} \\right ) = .... \\)",
 "Hitung \\( \\int_{0}^{1} \\left ( \\sqrt[20]{1-x^{18}} - \\sqrt[18]{1-x^{20}}  \\right ) dx \\).",
 "Periksa apakah integral berikut konvergen atau divergen. Jika konvergen, hitung nilainya.<br>\\( \\int_{0}^{4} \\frac{dx}{\\sqrt{4-x}} \\)",
 "Carilah \\( \\int \\left ( 1 + \\sin \\left ( 2x \\right ) \\right ) dx \\).",
@@ -174,5 +174,7 @@ soalArray = [
 "Find the least positive integer \\(N\\) such that the set of \\(1000\\) consecutive integers beginning with \\(1000 \\cdots N\\) contains no square of an integer.",
 "Let \\(\\left( \\mathbb{Z}'_7, \\times _7\\right)\\) denote the multiplicative group of reduced residues modulo \\(7\\). Prove that \\(\\left( \\mathbb{Z}'_7, \\times _7\\right)\\) is cyclic.",
 "Buktikan atau berikan contoh penyanggah pernyataan<br>\\(\\left| x \\right| \\leq 2 \\Rightarrow  \\frac{1}{\\left| x+4 \\right|} \\leq \\frac{1}{2}\\).",
+"Find the sum of the solutions to the equation \\(\\left( x+27 \\right)^{\\frac{1}{4}} + \\left( 55-x \\right)^{\\frac{1}{4}}=4\\).",
+"Diberikan barisan fungsi \\(\\left\\{ f_n \\right\\}\\) dengan \\(f_n:\\left[ 0,1 \\right] \\to \\mathbb{R}\\) dan \\(f_n\\left( x \\right) = x^n - x^{2n}\\). Tunjukkan bahwa terdapat barisan \\(\\left\\{ x_n \\right\\} \\subseteq \\left[ 0,1 \\right]\\) sedemikian sehingga<br>\\(\\lim_{n \\to \\infty} f_n \\left( x_n \\right) \\neq 0\\).",
 
 ];
