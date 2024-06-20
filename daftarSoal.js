@@ -126,7 +126,7 @@ soalArray = [
 "Misalkan fungsi \\(f:\\mathbb{R}\\to \\mathbb{R} \\) sehingga \\(f\\left( x+y \\right) = f\\left( x \\right)+f\\left( y \\right) \\) untuk setiap \\(x,y\\in\\mathbb{R}\\). Tunjukkan \\(f\\) kontinu di suatu \\(x=a\\) jika dan hanya jika \\(f\\) kontinu di setiap \\(x\\in\\mathbb{R}\\).",
 "Misalkan \\(G=\\left( V,E \\right) \\) suatu graf dan \\(d\\left( x \\right) \\) adalah derajat titik \\(x\\). Buktikan bahwa \\(\\sum_{x\\in V}^{} d\\left( x \\right) = 2\\left| E \\right| \\).",
 "Hitunglah integral kompleks berikut.<br>\\( \\int_{C}^{} z dz\\)<br>dengan \\(C\\) adalah segmen garis lurus dari \\(z=1+i\\) ke \\(z=3+3i\\).",
-"Hitunglah integral dari fungsi kompleks<br>\\int_{C}^{} \\frac{\\sin \\pi z^2 + \\cos \\pi z^2}{\\left( z-1 \\right) \\left( z-2 \\right)} dz<br>dengan \\(C\\) lingkaran berorientasi positif didefinisikan oleh \\(C:\\left| z-i \\right| = 3\\).",
+"Hitunglah integral dari fungsi kompleks<br>\\int_{C}^{} \\frac{\\sin \\pi z^2 + \\cos \\pi z^2}{\\left( z-1 \\right) \\left( z-2 \\right)} dz\\)<br>dengan \\(C\\) lingkaran berorientasi positif didefinisikan oleh \\(C:\\left| z-i \\right| = 3\\).",
 "Carilah nilai maksimum dari \\(\\left| z^2 + 3z -1 \\right| \\) dengan \\(z\\in\\mathbb{C} \\) di \\(\\left| z \\right|\\le 1\\).",
 "Jelaskan mengapa terhadap operasi tambah (aritmetika) biasa, \\(\\mathbb{Z} \\) adalah grup siklik dan mengapa bilangan positif terkecil \\(a\\) dari setiap subgrup \\(A \\le \\mathbb{Z} \\), merentang subgrup \\(A\\) (\\(A\\) adalah subgrup siklik).",
 "Buktikan bahwa terhadap operasi tambah (aritmetika) biasa,<br>\\(B=\\left\\{ 27x+45y \\; | \\; x,y \\in \\mathbb{Z} \\right\\} \\)<br>adalah grup siklik. Tentukan unsur yang merentang subgrup siklik \\(B\\) ini.",
