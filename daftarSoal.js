@@ -176,5 +176,8 @@ soalArray = [
 "Buktikan atau berikan contoh penyanggah pernyataan<br>\\(\\left| x \\right| \\leq 2 \\Rightarrow  \\frac{1}{\\left| x+4 \\right|} \\leq \\frac{1}{2}\\).",
 "Find the sum of the solutions to the equation \\(\\left( x+27 \\right)^{\\frac{1}{4}} + \\left( 55-x \\right)^{\\frac{1}{4}}=4\\).",
 "Diberikan barisan fungsi \\(\\left\\{ f_n \\right\\}\\) dengan \\(f_n:\\left[ 0,1 \\right] \\to \\mathbb{R}\\) dan \\(f_n\\left( x \\right) = x^n - x^{2n}\\). Tunjukkan bahwa terdapat barisan \\(\\left\\{ x_n \\right\\} \\subseteq \\left[ 0,1 \\right]\\) sedemikian sehingga<br>\\(\\lim_{n \\to \\infty} f_n \\left( x_n \\right) \\neq 0\\).",
+"Let \\(A\\) be an \\(n\\)-square complex matrix. Show that<br>\\(x^{*} Ax=0\\) for all \\(x \\in \\mathbb{C}^n \\Leftrightarrow A=0\\).",
+"Let \\(A\\) be an \\(n\\)-square complex matrix. Show that<br>\\(x^{T} Ax=0\\) for all \\(x \\in \\mathbb{R}^n \\Leftrightarrow A^T=-A\\).",
+"A bug travels from A to B along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there?<br><img src='gambar4.png'/>",
 
 ];
