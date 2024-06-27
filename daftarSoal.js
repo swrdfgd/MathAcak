@@ -208,5 +208,6 @@ soalArray = [
 "Suppose that \\(F\\) is a family of finite subsets of \\(mathbb{N}\\) and for any two sets \\(A,B\\in F\\) we have \\(A\\cap B\\neq \\varnothing\\). Suppose all of the member of \\(F\\) have the same size. Is it true that there is a finite subset \\(Y\\) of \\(\\mathbb{N}\\) such that for any \\(A,B\\in F\\) we have \\(A\\cap B\\cap F\\neq \\varnothing\\)? Justify your answer.",
 "Let \\(f\\) a \\(C^3 \\left(\\mathbb{R}\\right)\\) non-negative function, \\(f\\left(0\\right)=f'\\left(0\\right)=0\\), \\(0<f''\\left(0\\right)\\).<br>Let<br>\\(g(x)=\\left( \\frac{\\sqrt{f\\left(x\\right)}}{f'\\left(x\\right)} \\right)'\\)<br>for \\(x\\neq 0\\) and \\(g\\left(0\\right)=0\\). Show that \\(g\\) is bounded in some neighbourhood of \\(0\\).<br>Does the theorem hold for \\(f\\in C^2 \\left(\\mathbb{R}\\right)\\)?",
 "Let \\(M\\) be an invertible matrix of dimension \\(2n\\times 2n\\), represented in block form as<br>\\(M=\\begin{pmatrix} A & B \\\\ C & D \\end{pmatrix}\\) and \\(M^{-1}=\\begin{pmatrix} E & F \\\\ G & H \\end{pmatrix}\\).<br>Show that \\(\\det M.\\det H = \\det A\\).",
+"Show that \\(\\sum_{n=1}^{\\infty} \\frac{\\left( -1 \\right)^{n-1} \\sin\\left( \\log n \\right)}{n^\\alpha}\\) converges if and only if \\(\\alpha>0\\).",
 
 ];
