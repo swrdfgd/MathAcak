@@ -179,5 +179,8 @@ soalArray = [
 "Let \\(A\\) be an \\(n\\)-square complex matrix. Show that<br>\\(x^{*} Ax=0\\) for all \\(x \\in \\mathbb{C}^n \\Leftrightarrow A=0\\).",
 "Let \\(A\\) be an \\(n\\)-square complex matrix. Show that<br>\\(x^{T} Ax=0\\) for all \\(x \\in \\mathbb{R}^n \\Leftrightarrow A^T=-A\\).",
 "A bug travels from A to B along the segments in the hexagonal lattice pictured below. The segments marked with an arrow can be traveled only in the direction of the arrow, and the bug never travels the same segment more than once. How many different paths are there?<br><img src='gambar4.png'/>",
+"Buktikan terdapat dengan tunggal fungsi \\(f:\\left[ 0, \\infty \\right ) \\to \\left[ 0, \\infty \\right )\\) dengan \\(\\left ( f\\circ f \\right) \\left(x \\right) = 6x - f \\left( x \\right)\\) dan \\(f \\left( x \\right) >0\\) untuk setiap \\(x>0\\).",
+"Bilangan asli terkecil \\(n\\) sehingga \\(\\frac{\\left (2n \\right)!}{\\left(n!\\right)^2}\\) habis dibagi \\(30\\) adalah ....",
+"Misalkan \\(n = 2^{31} 3^{19}\\). Berapa banyak bilangan bulat positif pembagi \\(n^2\\) yang kurang dari \\(n\\) tetapi tidak membagi \\(n\\)?",
 
 ];
